@@ -4,9 +4,9 @@
    <img src="https://img.shields.io/badge/STATUS-%20COMPLETO-green">
    </p>
 
-
+## ¿Qué es?
 _Una aplicación que permite sortear nombres, utilizada principalmente para realizar intercambios de regalos conocido como "amigo secreto"._
 
-## ¿Cómo funciona?
+### ¿Cómo funciona?
 Consiste basicamente en añadir cuantos nombres como se deseen, uno por uno con el botón "Añadir".
 Una vez añadidos los nombres, se presiona el botón "Sortear amigo" para conocer el nombre del amigo elegido aleatoriamente por el mismo codigo.
